@@ -12,7 +12,7 @@ p {
     margin: 0.5em 0;
 }
 
-h1, h3 + p {
+h1 + p, h3 + p {
     color: purple;
     font-family: sans-serif;
     font-weight: bold;
@@ -59,3 +59,4 @@ section ul li:nth-child(2) {
 section div:nth-child(2), dt :last-of-type {
     background-color: #ccc;` 
 }
+
