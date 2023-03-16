@@ -44,7 +44,7 @@ main, section#experience p:first-of-type {
     border-bottom: 2px dashed #ccc;
 }
 
-div > h3 {
+section > h3 {
     margin-bottom: 3rem;
 }
 
